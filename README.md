@@ -56,7 +56,7 @@ for simplifying the development of process applications with Camunda.
 
 ### Reconnect to the workspace via VS Code
 
-<img src="./images/reconnect.png" height="350" alt="Re-connect to workspace">
+<img src="./images/reconnect.png" height="400" alt="Re-connect to workspace">
 
 ## Tips and Tricks
 
@@ -72,6 +72,7 @@ for simplifying the development of process applications with Camunda.
    ```
 
 ### Install Gitpod Browser Extension
+
 * [Chrome ↗️](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki)
 * [Firefox ↗️](https://addons.mozilla.org/en-US/firefox/addon/gitpod/)
 
