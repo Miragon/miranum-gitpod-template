@@ -1,0 +1,8 @@
+# Image of workspace. Learn more: https://www.gitpod.io/docs/configure/workspaces/workspace-image
+image: gitpod/workspace-full:latest
+
+vscode:
+  extensions:
+# add here the extensions every workspace should start with (use miragon-gmbh.miranum-ide@5.4.0 for a specific version)
+    - miragon-gmbh.miranum-ide
+    - vsls-contrib.gitdoc
