@@ -4,7 +4,8 @@
 
 This template can act as a starting point for your own **Miranum IDE x Gitpod** Project.
 
-**Miranum IDE** is a collection of Visual Studio Code Plugins for simplifying the development of process applications with Camunda.
+**Miranum IDE** is a collection of Visual Studio Code Plugins
+for simplifying the development of process applications with Camunda.  
 **Gitpod** is a cloud development environment for teams to efficiently and securely develop software.
 
 ## Quickstart
@@ -17,16 +18,16 @@ This template can act as a starting point for your own **Miranum IDE x Gitpod** 
 
 - [ ] Visual Studio Code (Version > 1.76.0) is installed
 - [ ] The following plugins are installed
-   - [ ] [Gitpod](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop)
-   - [ ] [Gitpod Remote](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh)
-   - [ ] [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-- [ ] You have a [Gitpod Account](https://gitpod.io)
-- [ ] You are logged in to Gitpod in VS Code (see [VS Code Desktop](https://www.gitpod.io/docs/references/ides-and-editors/vscode))
+   - [ ] [Gitpod ↗️](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop)
+   - [ ] [Gitpod Remote ↗️](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh)
+   - [ ] [Remote - SSH ↗️](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [ ] You have a [Gitpod Account ↗️](https://gitpod.io)
+- [ ] You are logged in to Gitpod in VS Code (see [VS Code Desktop ↗️](https://www.gitpod.io/docs/references/ides-and-editors/vscode))
 - [ ] You have granted Gitpod access to your GitHub account (see [Push to GitHub via Gitpod](#push-to-github-via-gitpod))
 
 #### Push to GitHub via Gitpod
 
-1. Go to your [User Settings](https://gitpod.io/access-control)
+1. Go to your [User Settings ↗️](https://gitpod.io/access-control)
 2. Click the three dots on the right side of the line that says `GitHub`
 3. Click `Edit Permissions`
 4. Grant the permissions to your need (e.g. `public_repo` to allow *write access* to your public repositories)
@@ -71,7 +72,7 @@ This template can act as a starting point for your own **Miranum IDE x Gitpod** 
    ```
 
 ### Install Gitpod Browser Extension
-* [Chrome](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki)
-* [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitpod/)
+* [Chrome ↗️](https://chrome.google.com/webstore/detail/gitpod-online-ide/dodmmooeoklaejobgleioelladacbeki)
+* [Firefox ↗️](https://addons.mozilla.org/en-US/firefox/addon/gitpod/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
